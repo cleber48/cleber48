@@ -1,0 +1,28 @@
+Relatório de implementação de serviços AWS para diminuição de custos.
+
+Data: 12/01/2024
+Empresa: Farmácia pague menos
+Arquiteto de Cloud: Cleber Araújo
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Farmácia pague menos, realizado por Cleber Araújo. 
+
+Objetivo do projeto
+O projeto tem como objetivo elencar três serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
+Descrição do projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, estão descritas as ferramentas do projeto:
+
+Ferramenta 1: CloudCheckr: Essa ferramenta permite realizar otimizar os custos, segurança e conformidade para ambientes na nuvem, incluindo AWS. Ferramenta vai ser responsável pelas análises de custos e relatórios, Identificação de recursos subutilizados e alertas personalizados para controlar os custos.
+
+Ferramenta 2 - AWS Cost Explorer: Essa ferramenta permite analisar e visualizar seus custos. Ela fornece insights detalhados sobre o uso de recursos, identificando áreas onde os custos podem ser otimizados. Ferramenta vai ser responsável por identificação de oportunidades de economias de custos, Verificação de segurança, desempenho e tolerância a falhas, Recomendações proativas para melhorar infraestrutura.
+Ferramenta 3 - AWS Trusted Advisor: Essa ferramenta é responsável em orientar em tempo real para ajudar a otimizar os recursos, melhorar o desempenho e economizar dinheiro.
+
+
+Conclusão
+A implementação dessas ferramentas na Farmácia pague menos tem como objetivo reduzir os custos, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+
+Assinatura do Responsável pelo Projeto: Cleber Araújo
+
+
